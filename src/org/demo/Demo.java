@@ -7,6 +7,7 @@ public class Demo {
 		System.out.println("WELCOME");
 		System.out.println("B2");
 		System.out.println("B22");
+		System.out.println("master");
 	}
 
 }
